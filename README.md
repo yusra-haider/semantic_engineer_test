@@ -4,8 +4,8 @@ This is the test for applicants of the Semantic Data Engineer position at EBI, M
 
 The test contains two major sections:
 
-1. A programming exercise to determine your level of python-based development.
-2. A questionnaire with a few questions.
+1. A programming exercise to determine your degree of experience with python development.
+2. A knowledge test with a few questions to determine your level of understanding on semantic engineering.
 
 We expect you to edit the following 5 files. Any additional files will be ignored by the reviewers.
 
